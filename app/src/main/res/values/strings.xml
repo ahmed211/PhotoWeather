@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PhotoWeatherApp</string>
+    <string name="something_wrong">something went wrong</string>
+    <string name="facebook_app_id">337449457700171</string>
+</resources>
